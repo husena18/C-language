@@ -1,0 +1,9 @@
+#include<stdio.h>
+/*
+Q1: PROGRAM TO PRINT: “Hello Programmers, Welcome to the world of C”.
+*/
+int main ()
+{
+ printf("Hello World");
+ return 0;
+}
